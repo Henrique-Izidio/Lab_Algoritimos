@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspace/Lab_Algoritimos",
-      "program": "/workspace/Lab_Algoritimos/build/Debug/outDebug",
+      "cwd": "/workspace/Lab_Algoritimos/src",
+      "program": "/workspace/Lab_Algoritimos/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
