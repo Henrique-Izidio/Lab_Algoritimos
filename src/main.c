@@ -29,5 +29,7 @@ int main()
 
     printf("\n\n");
 
+    escreva(ldse);
+
     return 0;
 }

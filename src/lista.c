@@ -120,7 +120,12 @@ void escreva(Lista *ldse){
 
     if (ldse == NULL) return;
 
-    if (*ldse == NULL) return;
+    if (*ldse == NULL) {
+
+        printf("Lista Esta vazia! \n");
+
+        return;
+    };
 
     Elemento *aux = *ldse;
 
