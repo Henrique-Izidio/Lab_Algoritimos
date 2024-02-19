@@ -1,6 +1,3 @@
-typedef struct elemento Fila {
-    struct elemento inicio;
-    struct elemento inicio;
-};
+typedef struct elemento Fila;
 
 Fila *criar();

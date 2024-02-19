@@ -1,4 +1,3 @@
-
 typedef struct elemento *Lista;
 
 Lista *criar();
